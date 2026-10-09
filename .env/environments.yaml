@@ -1,5 +1,5 @@
 environments:
-  ci: AWS-CFN-TEMPLATES
-  devl: AWS-CFN-TEMPLATES
+  ci: AWS-E-COMMERCE-SANDBOX
+  devl: AWS-E-COMMERCE-SANDBOX
 regions:
   - us-east-1
