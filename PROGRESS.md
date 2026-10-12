@@ -5,6 +5,11 @@
 
 - [x] Repository Setup
 - [x] Amazon VPC
+- [x] Subnets
+  - [x] Two Public Subnets
+  - [x] Two Private Subnets for Application
+  - [x] Two Private Subnets for Database
+- [x] Route Tables
 - [x] NAT Gateway
 - [x] Amazon DynamoDB for Products
 - [x] Amazon DynamoDB for Shopping Cart
@@ -12,10 +17,6 @@
 
 ## Pending 🏗️
 
-- [ ] Subnets
-  - [ ] Two Public Subnets
-  - [ ] Two Private Subnets for Application
-  - [ ] Two Private Subnets for Database
 - [ ] Security Groups
 - [ ] Amazon CloudFront
 - [ ] Amazon Route53
